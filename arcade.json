@@ -1,0 +1,29 @@
+﻿{
+	"name": "Sonyar",
+	"version": "1.0.0.0",
+	"description": "A vampire who needs to cross a cave using her powerful sonar.",
+	"id": "tito",
+	"viewport-width": 800,
+	"viewport-height": 600,
+	"author": "Alfredo Tito",
+	"email": "tito.alfred@hotmail.com",
+	"website": "",
+	"orientations": "any",
+	"c2version": "212.2",
+	"used-plugins": [
+		"Audio",
+		"Keyboard",
+		"Sprite",
+		"Text",
+		"TiledBg"
+	],
+	"used-behaviors": [
+		"Platform",
+		"Rotate",
+		"Sin",
+		"bound",
+		"jumpthru",
+		"scrollto",
+		"solid"
+	]
+}
